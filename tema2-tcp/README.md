@@ -3,7 +3,7 @@
 
 # Autor
 
-- [@AlexLicuriceanu](https://www.github.com/AlexLicuriceanu) 325CD
+- [@AlexLicuriceanu](https://www.github.com/AlexLicuriceanu)
 
 # Organizare
 
