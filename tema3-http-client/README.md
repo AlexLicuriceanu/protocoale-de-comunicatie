@@ -3,7 +3,8 @@
 
 # Autor
 
-- [@AlexLicuriceanu](https://www.github.com/AlexLicuriceanu) 325CD
+- [@AlexLicuriceanu](https://www.github.com/AlexLicuriceanu)
+- [@nlohmann](https://www.github.com/nlohmann) (Biblioteca de parsare pentru JSON)
 
 # Organizare
 
