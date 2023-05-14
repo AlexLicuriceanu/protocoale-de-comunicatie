@@ -244,8 +244,6 @@ int main() {
            // Get the cookie or "" in case of error.
            session_cookie = get_cookie(response);
 
-           cout << session_cookie << " " << session_cookie.length() << endl;
-
            continue;
        }
 
@@ -275,8 +273,6 @@ int main() {
 
            // Get the token or "" in case of error.
            jwt_token = get_jwt_token(response);
-
-           cout << jwt_token << " " << jwt_token.length() << endl;
 
            continue;
        }
