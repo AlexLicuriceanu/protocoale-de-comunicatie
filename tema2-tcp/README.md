@@ -1,10 +1,6 @@
 
 # Tema 2 Protocoale de Comunicatie - Aplicatie client-server TCP si UDP pentru gestionarea mesajelor
 
-# Autor
-
-- [@AlexLicuriceanu](https://www.github.com/AlexLicuriceanu) 325CD
-
 # Organizare
 
 ## Structuri de date pentru mesaje
